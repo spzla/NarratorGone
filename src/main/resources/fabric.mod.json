@@ -3,7 +3,7 @@
   "id": "narratorgone",
   "version": "${version}",
   "name": "NarratorGone",
-  "description": "Narrator do be gone",
+  "description": "Removes narrator keybind",
   "authors": [
     "DevLisuu"
   ],
@@ -19,6 +19,6 @@
   "depends": {
     "fabricloader": ">=0.11.6",
     "fabric": "*",
-    "minecraft": "1.17.*"
+    "minecraft": ">=1.16"
   }
 }
