@@ -6,6 +6,6 @@ Minecraft mod that gets rid off narrator keybind, so that it won't interfere wit
 
 Another mod I made with just one Mixin.
 
-### Compatibility
+## Compatibility
 
 Compatible with literally everything in the world.
