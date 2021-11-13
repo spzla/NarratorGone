@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.devlisuu.narratorgone.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

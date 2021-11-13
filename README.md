@@ -1,0 +1,2 @@
+# NarratorGone
+ Remove narrator keybind

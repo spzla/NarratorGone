@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "narratorgone",
+  "version": "${version}",
+  "name": "NarratorGone",
+  "description": "Narrator do be gone",
+  "authors": [
+    "DevLisuu"
+  ],
+  "contributors": [
+    "spzla"
+  ],
+  "license": "GPL-3.0",
+  "icon": "icon.png",
+  "environment": "client",
+  "mixins": [
+    "narratorgone.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.*"
+  }
+}
